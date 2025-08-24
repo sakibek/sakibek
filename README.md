@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Building a consumer app with business features.<br><br>🌱 I’m currently learning Next.js<br><br>📫 How to reach me www.linkedin.com/in/sakibek
+🔭 I’m currently working on Building a SAAS.<br><br>🌱 I’m currently learning Next.js<br><br>📫 How to reach me www.linkedin.com/in/sakibek
 
 
 ## 🌐 Socials:
